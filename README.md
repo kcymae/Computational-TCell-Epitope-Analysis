@@ -4,7 +4,7 @@ A bioinformatics project focused on the computational identification and analysi
 
 ---
 
-## 📌 Overview
+## Overview
 
 T-cell epitopes are short peptide fragments presented by MHC molecules that are recognized by T-cell receptors, playing a critical role in adaptive immunity.
 
@@ -14,13 +14,10 @@ This project implements an end-to-end computational workflow for:
 - Evaluating peptide properties relevant to immunogenicity
 
 The pipeline can support applications in:
-- Vaccine design
-- Immunotherapy research
-- Antigen characterization
-
+- Vaccine design, Immunotherapy research, Antigen characterization
 ---
 
-## ⚙️ Workflow
+## Workflow
 
 The project follows a typical immunoinformatics pipeline:
 
@@ -43,7 +40,7 @@ The project follows a typical immunoinformatics pipeline:
 
 ---
 
-## 🧪 Methods & Tools
+## Methods & Tools
 
 - Python (data processing & analysis)
 - Jupyter Notebook (workflow execution)
@@ -52,7 +49,7 @@ The project follows a typical immunoinformatics pipeline:
 
 ---
 
-## 📊 Example Outputs
+## Example Outputs
 
 - Peptide sequences
 - Binding affinity scores
