@@ -1,20 +1,12 @@
-# 🧬 Computational T-Cell Epitope Analysis
-
-A bioinformatics project focused on the computational identification and analysis of T-cell epitopes using immunoinformatics approaches.
-
----
-
 ## Overview
 
-T-cell epitopes are short peptide fragments presented by MHC molecules that are recognized by T-cell receptors, playing a critical role in adaptive immunity.
+T-cell epitopes are short peptide fragments presented by Major Histocompatibility Complex (MHC) molecules that are recognized by T-cell receptors, playing a critical role in adaptive immunity.
 
 This project implements an end-to-end computational workflow for:
 - Generating overlapping peptide sequences
 - Predicting potential T-cell epitopes
 - Evaluating peptide properties relevant to immunogenicity
-
-The pipeline can support applications in:
-- Vaccine design, Immunotherapy research, Antigen characterization
+Applications: vaccine design, immunotherapy research, and antigen characterization
 ---
 
 ## Workflow
@@ -57,9 +49,3 @@ The project follows a typical immunoinformatics pipeline:
 
 ---
 
-## How to Run
-
-1. Clone the repository:
-```bash
-git clone https://github.com/kcymae/Computational-TCell-Epitope-Analysis.git
-cd Computational-TCell-Epitope-Analysis
